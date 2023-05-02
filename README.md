@@ -1,6 +1,7 @@
 # simulation-100-prisoners-escape-puzzle
 Simulate the strategy for the "100 Prisoners Escape Puzzle" proposed by Prof. Peter Bro Miltersen's.
-Original puzzle: https://www.youtube.com/watch?v=iSNsgj1OCLA&t=0s&ab_channel=Veritasium 
+
+(Original puzzle: https://www.youtube.com/watch?v=iSNsgj1OCLA&t=0s&ab_channel=Veritasium) 
 
 ### Problem:
 
@@ -26,3 +27,13 @@ If all of them open the 50 boxes at random, there probability of surviving is: 0
 
 The prisoners are allowed to strategize before and only before they start to enter the room. Is there a strategy to increase their probability of success?
 ![image](https://user-images.githubusercontent.com/112837341/235637546-00611b74-1b61-4b09-aa94-ffa9975b22dc.png)
+
+### Solution
+Please see explanation in the notebook or the original video.
+
+### Coding simulation
+This project is not the math for the probability in the answer, but the simulations to see if the probability checks out.
+
+- First 2 attempts are proof of concept, which confirms the number but ran pretty slow.
+- Attempt 3 identified an area to increase the speed by 75%.
+- Attempt 4 (to do later), will try to optimize the speed further and report more statistics from the experiments.
