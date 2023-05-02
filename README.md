@@ -1,4 +1,4 @@
-# simulation-100-prisoners-escape-puzzle
+# 100 Prisoners Escape Puzzle simulation
 Simulate the strategy for the "100 Prisoners Escape Puzzle" proposed by Prof. Peter Bro Miltersen's.
 
 (Original puzzle: https://www.youtube.com/watch?v=iSNsgj1OCLA&t=0s&ab_channel=Veritasium). *All illustrations below are taken from the original video*
