@@ -1,14 +1,14 @@
 # simulation-100-prisoners-escape-puzzle
 Simulate the strategy for the "100 Prisoners Escape Puzzle" proposed by Prof. Peter Bro Miltersen's.
 
-(Original puzzle: https://www.youtube.com/watch?v=iSNsgj1OCLA&t=0s&ab_channel=Veritasium) 
+(Original puzzle: https://www.youtube.com/watch?v=iSNsgj1OCLA&t=0s&ab_channel=Veritasium). *All illustrations below are taken from the original video*
 
 ### Problem:
 
 Says there are 100 prisoner, numbered from 1 to 100:
 
 ![image](https://user-images.githubusercontent.com/112837341/235636765-4e804965-7467-47eb-b57b-7b694bc5dbc0.png)
-*Visuals are taken from the original above*
+
 
 And there are slips of papers contain their number, from 1-100 are randomly hidden in boxes, also labeled 1-100:
 
